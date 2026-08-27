@@ -1,0 +1,6 @@
+{
+  "name": "Case #Friday - Romantic Mini-Game",
+  "description": "A playful, teasing interactive mini-game love letter leading to a Friday dinner date.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
